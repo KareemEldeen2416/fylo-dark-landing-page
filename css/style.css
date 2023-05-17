@@ -4,7 +4,7 @@
 
 .heading{
     display: grid;
-    grid-template-columns: 10fr 1fr;
+    grid-template-columns: 4fr 1fr;
     padding: 10px 30px;
     justify-content: center;
     align-items: center;
@@ -331,7 +331,7 @@
     width: 45%;
 }
 
-@media (min-width : 375px){
+@media (width : 375px){
 
     .information{
         display: flex;
