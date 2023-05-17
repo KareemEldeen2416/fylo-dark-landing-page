@@ -24,6 +24,10 @@
     color: white;
 }
 
+.navItem:focus{
+   cursor: pointer;
+}
+
 .introduction{
     display: flex;
     flex-direction: column;
